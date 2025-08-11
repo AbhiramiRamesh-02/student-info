@@ -1,0 +1,39 @@
+h1{
+    color:blue;
+    text-align: center;
+    background-color: aliceblue;
+    text-decoration: underline;
+    text-transform: capitalize;
+    letter-spacing: normal;
+
+}
+h2{
+    color: black;
+    text-align: center;
+    text-transform: capitalize;
+    text-justify: auto;
+    text-shadow: gray;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    
+}
+h3{
+    color: black;
+    text-align: center;
+    text-transform: capitalize;
+
+
+}
+h4{
+    color: black;
+    text-align: center;
+    text-transform: capitalize;
+}
+body{
+    background-color:beige;
+    background-image:url("student info/BB.jpg");
+    margin: 50px;
+    padding: 7px;
+
+}
